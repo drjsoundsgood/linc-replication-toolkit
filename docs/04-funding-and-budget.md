@@ -26,18 +26,18 @@ Costs depend heavily on location, whether the program is residential, and local 
 
 ## Where the money comes from
 
-The founding program has never relied on a single source. It kept running through shifts in federal funding by **combining several types of support**. Aim for a similar mix.
+The founding program has never relied on a single source. It has stayed running by **combining several types of support**. Aim for a similar mix.
 
 | Source type | Examples | Notes |
 |---|---|---|
-| **Federal grants** | Supplements for high school students on existing awards; broader-impacts budgets in new proposals (for example NSF CAREER) | Check whether your current awards allow supplements for pre-college researchers |
+| **Research grants** | Outreach or education components of research awards, where the sponsor allows them | Check each sponsor's current terms with your grants office before budgeting program costs |
 | **Private donors** | Alumni, families, local foundations, industry partners | Multi-year commitments give stability. Work with your development office. |
 | **Institutional funds** | Dean's office, department, diversity or outreach initiatives, pre-college program offices | Even a small annual commitment helps and signals institutional buy-in |
 | **Discretionary funds** | Startup, endowed chair or professorship funds | Useful as a **backstop** to cover gaps between grants |
 | **Society and foundation awards** | Scientific societies and education-focused foundations | Many fund teaching and outreach innovation |
 
 ### Tips
-- **Write LiNC into your grants.** A concrete, multi-year program with measured outcomes is a strong broader-impacts plan.
+- **Check sponsor terms first.** Funders' rules on outreach and education activities change. Confirm with your grants office what a given award can pay for before committing funds.
 - **Ask for multi-year commitments** from donors and deans, so you can promise students they can return.
 - **Keep a reserve.** Identify a backstop source before you promise a student a second summer.
 - **Report back to funders** with your survey results, publications and college outcomes. Good data makes renewal much easier.

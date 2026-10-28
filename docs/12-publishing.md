@@ -22,6 +22,12 @@ Set expectations at the start of the summer:
 - Follow your field's authorship standards (for example the [ICMJE criteria](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) or [CRediT contributor roles](https://credit.niso.org/)) and apply them the same way to every contributor.
 - Large author lists are normal for course-based papers. Use a contributions statement so each person's role is clear.
 
+## Expect it to take more than one summer
+
+Not every summer produces a paper. Often it takes **several years, and several cohorts,** before a project is complete enough to publish. Data from one summer's students may be combined with data from the next summer's, and with work from lab members during the year.
+
+Tell students this from the start, so a summer without a paper doesn't feel like a failure. Keep careful records of who generated which data, so students from earlier cohorts are included as co-authors when the paper comes out, even if they've already left for college.
+
 ## Practical points
 
 - **Consent:** confirm with students and families that students may be named as authors. Your program office may have a process.
@@ -32,7 +38,7 @@ Set expectations at the start of the summer:
 
 ## Other ways to share results
 
-Not every summer produces a paper on its own. Students can also share their work through:
+While a paper is in progress, students can share their work through:
 - Posters at local or regional meetings, or high school science fairs
 - Talks at partner institutions
 - Undergraduate and high school research journals

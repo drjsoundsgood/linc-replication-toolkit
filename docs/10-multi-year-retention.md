@@ -19,6 +19,17 @@ Returning students can begin independent work almost immediately, and they show 
 - **Winter:** send a personal invitation to return. Confirm before opening new spots.
 - **Throughout the year:** a group message channel for the cohort (following your institution's rules for communicating with minors), an occasional virtual meeting, and congratulations on milestones.
 
+## School-year weekend sessions
+
+Local students can also come to the lab on **weekends during the school year**, if this is arranged through your institution's office for programs involving minors. The same paperwork, supervision and safety rules apply as in the summer, so set it up with that office before inviting students.
+
+Weekend sessions help students:
+- Finish experiments started over the summer
+- Learn a new module ahead of next summer
+- Stay connected to the lab and their cohort
+
+Keep them optional, and schedule them around school, work and family commitments.
+
 ## When students can't return
 
 Students' lives change: jobs, family obligations, other programs. Make it easy to return, and never penalize a student for missing a summer. Keep them on the mailing list and welcome them back if they can come in a later year.
