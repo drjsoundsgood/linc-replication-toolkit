@@ -2,13 +2,16 @@
 
 ## Who LiNC is for
 
-- **High school students entering 10th or 11th grade** (that is, finishing 9th or 10th grade), so they can return for multiple summers
-- **From backgrounds traditionally excluded from science**, including students from low-income families, first-generation college-bound students, and students from groups underrepresented in STEM
+LiNC is **open to all students**. The aim is **inclusive excellence**: excellent science comes from a community that draws on talent from everywhere, and every participant, whatever their background, helps build that community.
+
+- **Eligibility:** high school students finishing 9th or 10th grade, so they can return for multiple summers. That's the only requirement.
 - **No prior research experience required.** Curiosity and commitment matter more than credentials.
+- **Outreach goes where opportunity is scarce.** Recruit actively at under-resourced schools and through community organizations, and reach students who have little access to research, such as students from low-income families and first-generation college-bound students.
+- **Selection rewards a commitment to inclusion.** Applicants respond to scenarios about making science welcoming to others. You don't need to belong to a particular group to help others feel they belong in science.
 
 Recruiting early is deliberate. Students who join after 9th grade can complete three or four summers, and the program reaches them before many have decided science "isn't for people like me."
 
-Check your institution's policies, and applicable law, on how you may describe and apply eligibility criteria. Your program office can advise.
+Check with your institution's program office and general counsel on how to describe and apply eligibility and selection criteria. Rules vary by institution and funder and have been changing.
 
 ## Where to find students
 
@@ -46,7 +49,7 @@ Use a rubric so decisions are consistent and defensible. See [templates/selectio
 
 - **Curiosity:** genuine interest in how the living world works
 - **Commitment:** availability and motivation to return in future summers
-- **Community:** thoughtful responses to the inclusion scenarios
+- **Commitment to inclusion:** thoughtful responses to the inclusion scenarios, showing how the student would help others belong
 - **Opportunity:** how much the program would add, given the student's current access to research opportunities
 
 Then:

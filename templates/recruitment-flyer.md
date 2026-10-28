@@ -17,10 +17,12 @@
 - A community of students who share your curiosity
 
 ### Who should apply
+**All students are welcome to apply.**
 - Students in **[9th or 10th grade]**
 - **No research experience needed**
 - Curious about how living things work
 - Able to commit **20 hours per week** for five weeks, [dates]
+- Excited to help make science a place where everyone belongs
 
 ### Apply by [deadline]
 [Application link or QR code]

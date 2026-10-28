@@ -5,7 +5,7 @@
 
 Thank you for your interest! This summer, you'll join our lab as a researcher: running your own experiments, managing your own research budget, and working alongside scientists at every stage of their careers.
 
-**No research experience is needed.** We're looking for curiosity and commitment, not credentials.
+**All students are welcome to apply, and no research experience is needed.** We're looking for curiosity, commitment, and a desire to help make science welcoming to everyone.
 
 - **Dates:** [start date] – [end date] (5 weeks)
 - **Time commitment:** 20 hours per week

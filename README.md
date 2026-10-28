@@ -2,7 +2,9 @@
 
 **LiNC: Linking high school students to research experiences in the life sciences**
 
-An open framework for building a **multi-year, research-intensive summer program** that brings high school students from traditionally excluded and low-income backgrounds into a working life sciences lab, and keeps them there, summer after summer, until they start college.
+An open framework for building a **multi-year, research-intensive summer program** that brings high school students into a working life sciences lab, and keeps them there, summer after summer, until they start college.
+
+LiNC is **open to all students**. Its aim is **inclusive excellence**: a scientific community that draws on talent from everywhere, built by students who care about making science welcoming to others. You don't need to come from a particular background to help build that community, and the program selects for that commitment.
 
 > The name is a nod to long intergenic non-coding RNAs (lincRNAs), the molecules the founding lab studies. Students *link* to research through them. Your program can keep the name, or adapt it to your own field.
 
@@ -10,10 +12,11 @@ An open framework for building a **multi-year, research-intensive summer program
 
 ## What makes LiNC different
 
-Most high school outreach is **one-and-done**: a few weeks of shadowing, a certificate, and no follow-up. LiNC is built on five design principles that set it apart.
+Most high school outreach is **one-and-done**: a few weeks of shadowing, a certificate, and no follow-up. LiNC is built on six design principles that set it apart.
 
 | Principle | What it looks like in practice |
 |---|---|
+| **Open to all, built for inclusion** | Any high school student may apply. Outreach goes where research opportunities are scarce, and selection rewards curiosity, commitment and a demonstrated commitment to inclusion in science. |
 | **Start early, stay long** | Students join in 9th or 10th grade with **no prior research experience required**, and return every summer through the summer before college. |
 | **Real autonomy, not shadowing** | By week three, students run experiments independently. Each manages their own **$500–$1,000 research budget**, planning and purchasing what their project needs. |
 | **Authentic science** | Students work on open questions whose results feed real publications. They are **co-authors** on the resulting papers. |
