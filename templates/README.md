@@ -14,6 +14,7 @@ Copy, adapt and rename these for your program. Replace anything in `[square brac
 | [budget-tracker.csv](budget-tracker.csv) | Tracking student spending | [08](../docs/08-student-budgets.md) |
 | [presentation-rubric.md](presentation-rubric.md) | Peer and mentor feedback on talks | [07](../docs/07-summer-curriculum.md) |
 | [accessible-report-template.md](accessible-report-template.md) | Turning research into students' primary literature | [06](../docs/06-course-to-lab-link.md) |
+| [module-catalog.md](module-catalog.md) | Example module set, module plan template and module schedule | [09](../docs/09-mentorship-cascade.md) |
 | [mentor-expectations.md](mentor-expectations.md) | Preparing lab members to mentor | [09](../docs/09-mentorship-cascade.md) |
 | [faculty-introduction-email.md](faculty-introduction-email.md) | Introducing alumni to college research faculty | [11](../docs/11-beyond-the-summer.md) |
 

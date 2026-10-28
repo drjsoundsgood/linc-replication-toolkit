@@ -2,24 +2,26 @@
 
 Students work **20 hours per week**, for example 4 hours a day, Monday to Friday. Adjust to your lab. Meetings in **bold** recur.
 
+"Module" slots are filled from your [module catalog](module-catalog.md), choosing the modules each project needs. Each is taught by a mentor pair using show, do, watch.
+
 ## Week 1: Welcome and foundations
 
 | Day | Activities |
 |---|---|
 | Mon | Welcome and introductions · **Pre-program survey** · Lab tour · Safety training |
 | Tue | Read and discuss the project report together · Lab notebooks · Pipetting practice |
-| Wed | Solutions and calculations · Core technique 1 (demonstration, then together) |
-| Thu | Core technique 1 (students lead, mentor watches) · **Lab group meeting** (observe) |
-| Fri | Core technique 2 · End-of-week reflection: what did you learn? What's confusing? |
+| Wed | Solutions and calculations · Module 1 (show, do) |
+| Thu | Module 1 (watch) · Module 2 · **Lab group meeting** (observe) |
+| Fri | Module 3 · End-of-week reflection: what did you learn? What's confusing? |
 
 ## Week 2: Guided experiments
 
 | Day | Activities |
 |---|---|
-| Mon | Guided experiment with mentor · Independent calculations |
-| Tue | Guided experiment · Analyze first data together |
+| Mon | Module 4 · Independent calculations |
+| Tue | Module 5 · Analyze first data together |
 | Wed | Plan the project: which predictions will you test? · Start the budget proposal |
-| Thu | Guided experiment · **Lab group meeting** · Finish budget proposal |
+| Thu | Module 6 · **Lab group meeting** · Finish budget proposal |
 | Fri | **Subgroup meeting**: informal update · Budget review with mentor |
 
 ## Week 3: Independence

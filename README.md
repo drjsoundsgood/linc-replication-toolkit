@@ -17,7 +17,7 @@ Most high school outreach is **one-and-done**: a few weeks of shadowing, a certi
 | **Start early, stay long** | Students join in 9th or 10th grade with **no prior research experience required**, and return every summer through the summer before college. |
 | **Real autonomy, not shadowing** | By week three, students run experiments independently. Each manages their own **$500–$1,000 research budget**, planning and purchasing what their project needs. |
 | **Authentic science** | Students work on open questions whose results feed real publications. They are **co-authors** on the resulting papers. |
-| **A mentorship cascade** | Faculty, postdocs, graduate students, undergraduates and *returning LiNC students* all mentor. Senior students train incoming ones. |
+| **A mentorship cascade** | Training is split into short **modules**, each taught by a mentor pair (one at the whiteboard, one at the bench), so no one person carries the summer. Faculty, postdocs, graduate students, undergraduates and *returning LiNC students* all teach. |
 | **Support beyond the summer** | Alumni receive college guidance, essay mentoring, and introductions to research faculty at the university they attend. |
 
 ## How the pipeline fits together
@@ -56,7 +56,7 @@ Then work through the full guide in order.
 | 06 | [Connecting a course to the summer](docs/06-course-to-lab-link.md) | Turning a CURE or lab project into student-ready research |
 | 07 | [The five-week summer](docs/07-summer-curriculum.md) | Week-by-week structure, meetings, presentations |
 | 08 | [Student research budgets](docs/08-student-budgets.md) | How students plan, justify and track spending |
-| 09 | [The mentorship cascade](docs/09-mentorship-cascade.md) | Roles for every tier of mentor, including returning students |
+| 09 | [The mentorship cascade](docs/09-mentorship-cascade.md) | Teaching in modules with mentor pairs; roles for every tier of mentor |
 | 10 | [Multi-year retention](docs/10-multi-year-retention.md) | Bringing students back and growing their responsibility |
 | 11 | [Beyond the summer](docs/11-beyond-the-summer.md) | College guidance and undergraduate research placement |
 | 12 | [Publishing with high school students](docs/12-publishing.md) | Authorship, manuscript structure, timelines |
@@ -66,7 +66,7 @@ Then work through the full guide in order.
 
 | Folder | Contents |
 |---|---|
-| [`templates/`](templates/) | Application form, selection rubric, welcome letter, family information sheet, five-week schedule, budget proposal and tracker, presentation rubric, accessible report template, mentor expectations, faculty introduction email |
+| [`templates/`](templates/) | Module catalog, application form, selection rubric, welcome letter, family information sheet, five-week schedule, budget proposal and tracker, presentation rubric, accessible report template, mentor expectations, faculty introduction email |
 | [`assessment/`](assessment/) | Matched pre- and post-program surveys, a returning-student module, a data template and an analysis script |
 
 Everything is written in plain Markdown or CSV so you can copy it into Google Forms, Word or your institution's systems.

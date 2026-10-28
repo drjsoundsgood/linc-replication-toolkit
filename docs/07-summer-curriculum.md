@@ -22,10 +22,11 @@ flowchart LR
 - Lab safety training (required before bench work)
 - Read and discuss the accessible project report together
 - Learn core skills: pipetting, making solutions, the calculations behind them, keeping a lab notebook
+- **Begin training modules.** Each module covers one technique, taught by a mentor pair: one explains the concept at the whiteboard, the other leads the bench work using show, do, watch. See [The mentorship cascade](09-mentorship-cascade.md#teaching-in-modules) and [templates/module-catalog.md](../templates/module-catalog.md).
 - Returning students lead parts of the training
 
 ### Week 2: Guided experiments
-- Run the core techniques alongside a mentor, with mentors gradually stepping back
+- Continue the modules your project needs, moving from "show" to "do" to "watch"
 - Practice reagent and sample calculations independently
 - **Draft the research budget**: what to test, what is needed, what it costs (see [Student research budgets](08-student-budgets.md))
 - First **subgroup meeting**: informal update on what's been learned
@@ -53,7 +54,8 @@ flowchart LR
 |---|---|---|
 | **Subgroup meeting** | Every two weeks | Informal: students present progress to their subgroup and get feedback |
 | **Full lab group meeting** | Weekly | Students attend alongside the whole lab; in later weeks they present |
-| **Mentor check-in** | Daily | Brief: plan for today, problems from yesterday |
+| **Training modules** | Weeks 1–2, then as needed | Mentor pairs teach one technique each; later modules are added as projects require them |
+| **Point-person check-in** | Daily | Brief: plan for today, problems from yesterday |
 | **PI check-in** | Weekly | Short conversation with each pair: how is it going, what do you need? |
 
 ## Presentations: a ladder of growing audiences

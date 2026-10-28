@@ -10,14 +10,15 @@ Thank you for mentoring in [Program name]. Your role is to help high school stud
 
 ## During the summer
 
-### Teach toward independence
-Use a gradual release:
-1. **I do, you watch.** Demonstrate and explain.
-2. **We do together.** Student does it with you alongside.
-3. **You do, I watch.** Student leads; you observe and step in only if needed.
-4. **You do.** Student works independently; you're available.
+### Teach your module as a pair
+You'll teach one or two modules with a partner. Decide together who takes each role:
+- **Whiteboard mentor:** explains the concept. What is the technique, why does it work, what do the results mean?
+- **Experimental mentor:** leads the bench work using **show, do, watch**:
+  1. **Show.** Demonstrate, explaining each step.
+  2. **Do.** Students perform it with you alongside.
+  3. **Watch.** Students do it on their own; you step in only if needed.
 
-The goal is for students to run experiments on their own **by week three**.
+Fill in a [module plan](module-catalog.md#module-plan-template) and do a dry run before the summer. The goal is for students to use the technique on their own afterward, and to run their own experiments **by week three**.
 
 ### Ask before answering
 When a student asks a question or an experiment fails, start with:
@@ -29,7 +30,7 @@ When a student asks a question or an experiment fails, start with:
 When a student proposes something, engage with it seriously. If it's feasible, help them try it. Being taken seriously is one of the most powerful parts of the program.
 
 ### Be present and predictable
-- Check in daily: plan for the day, problems from yesterday.
+- If you're a student pair's point person, check in daily: plan for the day, problems from yesterday.
 - Tell students when you'll be away and who to go to instead.
 - Review their notebooks and data regularly.
 

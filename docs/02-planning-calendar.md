@@ -7,7 +7,7 @@ This calendar assumes a five-week program running in **July and early August**. 
 ### 12–9 months before (summer–fall of the prior year)
 - [ ] Decide on scope: number of students (start with 2–4), local-only or residential, dates.
 - [ ] Meet your institution's **office for programs involving minors** (sometimes called youth programs, pre-college programs, or sponsored programs for minors). Learn what they handle and what they require. See [Institutional setup](03-institutional-setup.md).
-- [ ] Identify mentors in your lab and confirm their summer availability.
+- [ ] Draft your module set and assign a mentor pair to each module (see [templates/module-catalog.md](../templates/module-catalog.md)). Confirm summer availability.
 - [ ] Draft a budget and identify funding. See [Funding and budget](04-funding-and-budget.md).
 - [ ] Choose the research questions students will tackle. See [Connecting a course to the summer](06-course-to-lab-link.md).
 
