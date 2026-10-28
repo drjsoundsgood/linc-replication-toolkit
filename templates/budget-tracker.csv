@@ -1,0 +1,3 @@
+date_ordered,item,supplier,catalog_number,quantity,unit_price,total_cost,date_received,purpose,remaining_budget
+,STARTING BUDGET,,,,,,,,1000.00
+,,,,,,,,,

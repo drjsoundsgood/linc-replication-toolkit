@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use or adapt this toolkit, please cite it as below."
+title: "LiNC Replication Toolkit: Linking high school students to research experiences in the life sciences"
+type: dataset
+authors:
+  - family-names: Jones
+    given-names: A.N.
+    orcid: "https://orcid.org/0000-0002-2084-3625"
+repository-code: "https://github.com/drjsoundsgood/linc-replication-toolkit"
+license: CC-BY-4.0
+date-released: 2026-10-27
+keywords:
+  - STEM education
+  - high school research
+  - mentorship
+  - outreach
+  - broader impacts
+  - life sciences
+references:
+  - type: article
+    title: "Bioinformatic and experimental characterization of the RBM15 RNA binding protein"
+    authors:
+      - family-names: Bose
+        given-names: E.
+      - name: "et al."
+      - family-names: Jones
+        given-names: A.N.
+    journal: "Journal of Structural Biology"
+    year: 2025
+    doi: "10.1016/j.jsb.2025.108264"

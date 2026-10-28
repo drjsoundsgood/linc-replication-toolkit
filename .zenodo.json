@@ -1,0 +1,20 @@
+{
+  "title": "LiNC Replication Toolkit: Linking high school students to research experiences in the life sciences",
+  "description": "An open framework for building a multi-year, research-intensive summer program that brings high school students from traditionally excluded and low-income backgrounds into life sciences research labs. Includes a step-by-step setup guide, templates, and matched pre/post assessment surveys with an analysis script.",
+  "upload_type": "other",
+  "creators": [
+    {
+      "name": "Jones, A.N.",
+      "orcid": "0000-0002-2084-3625"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["STEM education", "high school research", "mentorship", "outreach", "broader impacts", "life sciences"],
+  "related_identifiers": [
+    {
+      "identifier": "10.1016/j.jsb.2025.108264",
+      "relation": "isReferencedBy",
+      "scheme": "doi"
+    }
+  ]
+}
